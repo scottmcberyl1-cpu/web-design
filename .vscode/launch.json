@@ -108,7 +108,7 @@
             "type": "vscode-edge-devtools.debug",
             "name": "Open Edge DevTools",
             "request": "attach",
-            "url": "https://127.0.0.1:5500/website.html.",
+            "url": "https://127.0.0.1:5500/website.html."
         }
     ],
     "compounds": [
